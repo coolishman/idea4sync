@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="D:\maven_jar" />
+            <option name="mavenHome" value="D:/apache-maven-3.8.1" />
+            <option name="useMavenConfig" value="true" />
+            <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.17" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI" />
+          <state key="ProjectLibrariesConfigurable.UI" />
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.33" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

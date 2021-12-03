@@ -1,0 +1,15 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="28-D0-EA-3E-B3-77" />
+          </set>
+        </option>
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>
