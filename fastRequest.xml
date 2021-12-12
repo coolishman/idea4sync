@@ -88,7 +88,7 @@
         <option name="methodDescription" value="重新拟定指令数据" />
         <option name="methodType" value="POST" />
         <option name="module" value="zhtxxt" />
-        <option name="originUrl" value="intelligenceInfoEntity/v1/restartCommand" />
+        <option name="originUrl" value="" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />
