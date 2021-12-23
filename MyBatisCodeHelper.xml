@@ -5,6 +5,7 @@
         <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="userMacSet">
           <set>
+            <option value="00-FF-39-C9-3C-C2" />
             <option value="28-D0-EA-3E-B3-77" />
             <option value="2A-D0-EA-3E-B3-77" />
           </set>
